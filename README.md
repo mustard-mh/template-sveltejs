@@ -2,6 +2,8 @@
 
 This is a [Svelte](https://svelte.dev) template configured for ephemeral development environments on [Gitpod](https://www.gitpod.io/).
 
+MODIFY SOMETHING
+
 ## SvelteKit
 
 If you are looking for a SvelteKit example, please use https://github.com/gitpod-io/template-sveltekit.
